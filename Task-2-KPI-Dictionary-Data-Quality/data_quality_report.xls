@@ -1,0 +1,8 @@
+Check,Result,Status
+Total Rows,12,Pass
+Total Columns,15,Pass
+Total Missing Values,12,Review Required
+Duplicate Rows,1,Review Required
+Negative Quantity Values,1,Review Required
+Invalid Quantity Values,1,Review Required
+Invalid Discount Values,1,Review Required
